@@ -13,8 +13,6 @@
  University Guideline on Academic Honesty:
    http://www.cuhk.edu.hk/policy/academichonesty/
 
- Student Name : Guo Jixuan
- 
  Date         : 2021/12/27 
 
 ---
